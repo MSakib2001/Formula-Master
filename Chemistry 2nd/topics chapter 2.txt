@@ -1,0 +1,24 @@
+Topics | Organic Chemistry | 2nd Chapter | 2nd Paper
+
+
+Alkane General Formula: CnH2n+2 (e.g., methane, CH4; ethane, C2H6)
+Alkene General Formula: CnH2n (e.g., ethene, C2H4; propene, C3H6)
+Alkyne General Formula: CnH2n-2 (e.g., ethyne, C2H2; propyne, C3H4)
+Functional Groups:
+    Alcohol: R-OH (e.g., ethanol, CH3CH2OH)
+    Aldehyde: R-C=O (e.g., formaldehyde, HCHO)
+    Ketone: R-C=O-R' (e.g., acetone, CH3COCH3)
+    Carboxylic Acid: R-COOH (e.g., acetic acid, CH3COOH)
+    Amine: R-NH2 (e.g., methylamine, CH3NH2)
+
+Isomerism: Structural isomers have the same molecular formula but different structural arrangements. For example, C4H10 can be butane or isobutane.
+
+Lewis Structures: Diagrams that show the arrangement of atoms and valence electrons in a molecule.
+
+Hybridization: Describes how atomic orbitals mix to form hybrid orbitals for bonding (e.g., sp3 hybridization in methane).
+
+Resonance: The concept that electron delocalization occurs in some molecules, leading to multiple resonance structures.
+
+Electrophile and Nucleophile: Electrophiles are electron-poor species that seek electrons, while nucleophiles are electron-rich species that donate electrons.
+
+Nomenclature: Understanding the rules for naming organic compounds, including alkanes, alkenes, and alkynes.
