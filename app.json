@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Formula Master",
+    "icon": "./assets/App-icon.png",
+    "version": "1.0.17",
+    "slug": "formula-master",
+    "orientation": "portrait",
+    "android": {
+      "permissions": [],
+      "package": "com.heliospherestudios.formulamaster",
+      "versionCode": 17
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6ef2aea9-f4f5-4879-b48d-3cbfa701da8a"
+      }
+    },
+    "owner": "hr1ddh0",
+    "plugins": [
+      "expo-tracking-transparency"
+    ]
+  }
+}
