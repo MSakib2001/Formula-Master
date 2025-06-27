@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <!-- Homepage -->
+    <url>
+        <loc>https://www.your-educational-app.com/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Categories or Subjects -->
+    <url>
+        <loc>https://www.your-educational-app.com/mathematics</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://www.your-educational-app.com/science</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <!-- Add more subject/category pages as needed -->
+
+    <!-- Course or Content Pages -->
+    <url>
+        <loc>https://www.your-educational-app.com/course-page-1</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://www.your-educational-app.com/course-page-2</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <!-- Add more course/content pages as needed -->
+
+    <!-- User Profile Pages -->
+    <url>
+        <loc>https://www.your-educational-app.com/user-profile/user-1</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://www.your-educational-app.com/user-profile/user-2</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <!-- Add more user profile pages as needed -->
+
+    <!-- FAQ Page -->
+    <url>
+        <loc>https://www.your-educational-app.com/faq</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Contact and Support -->
+    <url>
+        <loc>https://www.your-educational-app.com/contact</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Privacy Policy and Terms of Service -->
+    <url>
+        <loc>https://www.your-educational-app.com/privacy-policy</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://www.your-educational-app.com/terms-of-service</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Blog or News Pages -->
+    <url>
+        <loc>https://www.your-educational-app.com/blog/article-1</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://www.your-educational-app.com/blog/article-2</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <!-- Add more blog or news pages as needed -->
+
+    <!-- App Updates and Announcements -->
+    <url>
+        <loc>https://www.your-educational-app.com/updates/update-1</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://www.your-educational-app.com/updates/update-2</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <!-- Add more update/announcement pages as needed -->
+</urlset>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+                                <!--Active-->
+                                 
+                                 <!-- Homepage -->
+    <url>
+        <loc>https://heliospherestudios.com/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+                                    <!-- App -->
+    <url>
+        <loc>https://www.heliospherestudios.com/formulamaster</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>   
+                                    <!-- Play Store Link -->
+        <url>
+        <loc>https://play.google.com/store/apps/details?id=com.heliospherestudios.formulamaster</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>    
+    
+                                    <!--Social Links-->
+    <url>
+        <loc>https://www.facebook.com/heliospherestudios</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>    
+    </url>
+
+    </urlset>    
+    
+    
+    <!--Inactive 
+    
+                            #Sign In
+    <url>
+        <loc>https://heliospherestudios.com/signin</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+                            #Sign Up
+    <url>
+        <loc>https://heliospherestudios.com/signup</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+                            #dashboard
+    <url>
+        <loc>https://heliospherestudios.com/profile</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+
+                            #updates
+    <url> 
+        <loc>https://heliospherestudios.com/updates</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    
+-->
+
+

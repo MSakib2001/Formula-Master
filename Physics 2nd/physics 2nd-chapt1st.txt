@@ -1,0 +1,213 @@
+﻿1. Theta's (θ) value of temperature?
+A. (θ - θ ᵢ𝒸ₑ) / N = (Xθ* - Xᵢ𝒸ₑ) / (Xₛₜₑₐₘ - Xᵢ𝒸ₑ) (ans.) 
+B. (θ - θ ᵢ𝒸ₑ) / (Xₛₜₑₐₘ - Xᵢ𝒸ₑ) = N / (Xθ* - Xᵢ𝒸ₑ)
+C. (θ - θ ᵢ𝒸ₑ) × N = (Xθ* - Xᵢ𝒸ₑ) / (Xₛₜₑₐₘ - Xᵢ𝒸ₑ)
+D.  (θ - θ ᵢ𝒸ₑ) / N = (Xₛₜₑₐₘ - Xᵢ𝒸ₑ) / (Xθ* - Xᵢ𝒸ₑ) 
+Prove : The temperature of the ice point and the steam point are θᵢ𝒸ₑ and θₛₜₑₐₘ respectively and at these two temperatures the value of one religion in the above corner are Xᵢ𝒸ₑ and Xₛₜₑₐₘ. And now if the temperature in the other corner is the value of this religion in theta if Xθ* and if the fundamental interval is divided by N into equal parts then, that will be the value of Temperature (θ) -
+(θ - θᵢ𝒸ₑ) / θₛₜₑₐₘ - θᵢ𝒸ₑ =  (Xθ* - Xᵢ𝒸ₑ) / (Xₛₜₑₐₘ - Xᵢ𝒸ₑ) 
+Or, (θ - θ ᵢ𝒸ₑ) / N = (Xθ* - Xᵢ𝒸ₑ) / (Xₛₜₑₐₘ - Xᵢ𝒸ₑ) 
+
+
+2. Formula of Mechanical equivalence of heat? 
+Hints: W = work, J = Jul's constant, H = the amount of heat
+A. W = JH (ans.)   
+B. W = J / H
+C. W = -JH
+D. W = H / J
+
+
+3. Formula of ΔQ? 
+Hints: ΔQ = The amount of heat energy supplied, ΔW = The amount of work done
+A. ΔQ = ΔU + ΔW (ans.)
+B. ΔQ =  ΔU - ΔW
+C. ΔQ = ΔU / ΔW
+D.ΔQ = ΔU × ΔW
+Prove : 
+
+
+4. Formula of dQ? 
+Hints: dQ = The amount of heat enegery for minor changes, dW = The amount of work done for minor changes
+A. dQ = dU + dW (ans.)
+B. dQ = dU × dW 
+C. dQ = dW - dU
+D. dQ = dW / dU
+
+Prove: ΔQ = ΔU + ΔW 
+Or, dQ = dU + dV 
+
+
+5.  What's the formula of Work, W?
+Hints: p = pressure, V = volume
+A. W = p ΔV (ans.)
+B. W = pV₁ × pV₂
+C. W = p / ΔV 
+D. W = ΔV / p
+
+Prove: ∫ dW =  ∫ⱽ² ᵥ₁ pDv 
+= p ∫ⱽ² ᵥ₁ dV
+= p [V]ⱽ² ᵥ₁
+= p [V₂ - V₁] 
+= p ΔV
+
+
+
+
+6. What's the formula of Pressure, p? 
+Hints: n = moles, T = temperature,  V = volume, R = gas constant
+A. p = nRT / V (ans.)
+B. p = V / nRT
+C. p = nR / VT
+D. p = nV / RT
+Prove : pV = nRT or, p = nRT / V
+
+7. Formula of W?  
+Hint: W = The total amount of work, V = volume, n = moles, R = gas constant, T = temperature 
+A.  W = nRT 𝘭𝘯 (V₂ / V₁) (ans.)
+B. W = nRT 𝘭𝘯 ΔV 
+C. W = ΔV / nRT
+D. W = nRT / ΔV
+Prove:  W = ∫ⱽ²ᵥ₁ pdV = ∫ⱽ²ᵥ₁ nRT dV / V
+=n RT [ lnV ] ⱽ²ᵥ₁
+So, W = nRT 𝘭𝘯 (V₂ / V₁)
+
+
+
+8. What's the formula of relative heat, C? 
+Hints: C = Relative heat, ΔQ = The required thermal energy, ΔT = Increasing Temperature (Kelvin), m = moles 
+A. C = ΔQ / mΔT (ans.)
+B. C = mΔQΔT
+C. C = mΔQ / ΔT
+D. C = mΔT/Q
+
+
+9. Correct equation of ideal gas constant, R?
+Hints: R = ideal gas constant, Cᴘ = The relative heat of the gas molar at constant pressure, Cᴠ = The relative heat of a molar of a gas in a fixed volume
+A. R = Cᴘ - Cᴠ  [Cᴘ > Cᴠ] (ans.)
+B. R = Cᴘ - Cᴠ [Cᴠ > Cᴘ]
+C. R = Cᴘ × Cᴠ [Cᴘ ≠ Cv]
+D. R = Cᴘ / Cᴠ [Cᴘ,Cᴠ ≠ 0]
+Prove : From the first law of thermodynamics we get,
+dQ = dU + dW or, dQ = dU + pdV ------(i)
+But, we know that the increase in internal energy of 1 mile of gas dU is equal to the product of the relative heat Cᴠ and temperature increase dT of the gas mile in a constant volume, i.e.
+dU = Cv dT 
+Putting this value of dU in the equation (i), dQ = CvdT + pdV ------(ii)  
+Again, we know that the heat required to increase the temperature of 1 mole of gas at 1 K by keeping the pressure constant is the relative heat of the gas at constant pressure i.e. 
+Cᴘ = dQ / dT or, dQ = Cᴘ dT ----(iii)
+ Putting the value of dQ (ii) in the equation we get, 
+CᴘdT = Cv dT + pdV -----(iv)
+ Again, if the mile gas is constant R, for 1 mole gas we know, pV = RT.  
+Insulates it with respect to T, 
+d/dt (pV) = d/dt (RT) or, p dV/dT = R ["p" is constant] Or, pdV = RdT ------(v)
+By putting the value of pdV in the equation (v) we get, Cᴘ
+ dT = CvdT + RdT or, Cᴘ = Cv + R. So,  Cᴘ - Cv = R is a universal or moler gas. constant R is always a positive quantity, so Cᴘ > Cv. Cᴘ is always greater than Cv.
+
+
+
+
+
+
+
+10. Formula of pV^γ?
+Hint: p = Pressure, V = Volume, T = Temperature, R = constant 
+A. Pv^γ = R (ans.)
+B. Pv^γ = RTV^γ-1
+C. Pv^γ = RT/V
+D. Pv^γ = γ (R/V
+Prove: We know that the increase in internal energy of 1 mole of gas dU is equal to the product of the relative heat Cv and temperature increase dT of the molar of the gas at constant volume, i.e. dU = CvdT
+ Therefore, dQ = CvdT + pdV
+ Now in the thermodynamic process, dQ = 0
+ Therefore, CvdT + pdV = 0 ---- (i)
+ Again, in the case of 1 mole of ideal gas we know, pV = RT
+ Find this equation with respect to T,
+ d / dT (pV) = d / dt (RT)
+ Or, p dV / dT + V dp / dT = R
+ Or, pdV + Vdp = RdT
+ Therefore, dT = (pdV + Vdp) / R
+ Putting the value of dT at (i) No.,
+ Cv (pdV + Vdp) / R + pdV = 0
+ Or, Cv p dV + Cv V dp + R p dV = 0
+ Or, Cvp Dv + Cv V dp + (Cp - Cv) p dV = 0 [Here, R = Cp - Cv]
+ Or, Cv p dV + Cv V dp + Cp p dV = 0
+ Or, Cv V dp + Cp p dV = 0
+ Or, V dp + (Cp / Cv) p dV = 0
+ Or, V dp + gama p dV = 0 [Here, γ = Cp / Cv]
+ Divide both sides by pV,
+ Or, dp/p + γ dV/V = ​​0
+  It adds up,
+𝘭𝘯 𝘱 + 𝘭𝘯 𝘝 = constant
+ Or, 𝘭𝘯 𝘱 + 𝘭𝘯 𝘝^γ = constant
+ Or, 𝘭𝘯 (pV^γ) = constant
+Therefore, pV^γ = constant
+
+
+11. Formula of η? 
+Hint: T₁ = absorbed heat temperature, T₂ = Emitted heat temperature,  Q₁= Absorbed heat, Q₂ = Emitted heat, W= Work
+A. η =  (T₁ - T₂/T₁) × 100% (ans.)
+B. η =  (T₁ - T₂/T₁) 
+C. η = (T₂ - T₁/T₂)
+D. η =  T₁T₂/100
+Prove: 
+Engine efficiency, η = heat energy converted to work by the engine / heat energy absorbed by the engine.
+ If an engine absorbs Q₁ heat from a heat source at T₁ temperature and emits Q₂ heat at T₂ temperature, then the amount of heat energy converted to work by the engine,
+ W = Q₁ - Q₂
+ So, η = W / Q₁ --------- (i)
+ Or, η = (Q₁ - Q₂) / Q₁
+ Or, η = 1- (Q₂ / Q₁) ------- (ii)
+ In the case of a thermal engine, the amount of heat absorbed or excreted by the engine is proportional to the temperature of the heat source or heat exchanger in contact with the engine, i.e., Q / T = constant number.  So for a full cycle of a thermal engine we get,
+ Q₁ / T₁ = Q₂ / T₂ ------- (iii)
+ Or, Q₂ / Q₁ = T₂ / T₁
+ Therefore, from (ii) we get,
+ η = 1 - (T₂ / T₁)
+ Or, η = (T₁ - T₂)/T₁ -------(iv)
+Skills are expressed as general parentages.
+So, η = (T₁-T₂/T₁) × 100%
+
+12. Formula of η?
+Hint: T₁ = absorbed heat temperature, T₂ = Emitted heat temperature,  Q₁= Absorbed heat, Q₂ = Emitted heat, W= Work
+A. η = W/Q (ans.)
+B. η = Q / W
+C. η = W × Q
+D. η = W/Q × 100%
+Prove:
+ Engine efficiency, η = heat energy converted to work by the engine / heat energy absorbed by the engine.
+ If an engine absorbs Q₁ heat from a heat source at T₁ temperature and emits Q₂ heat at T₂ temperature, then the amount of heat energy converted to work by the engine,
+ W = Q₁ - Q₂
+ So, η = W / Q₁
+
+13. Formula of COP?
+Hints: COP = Coefficient of Performance, Q₁ = absorbed heat, Q₂ = Emitted heat, T = Temperature, W = Work
+A. COP = Q₂/W = Q₂/(Q₁ - Q₂) = T₂/(T₁ - T₂) (ans.)
+B. COP = W/Q₂ =  Q₂/(Q₁ - Q₂) = T₂/(T₁ - T₂)
+C. COP = WΔQ = Q₁/(Q₁ - Q₂) = T₂/(T₁ - T₂)
+D. COP = Q₁/W = Q₁/ΔQ = T₁/(ΔT)
+
+14. Formula of dS?
+Hint: dS = Change in entropy, T = Static Temperature, dQ = Accepted or rejected heat
+A. dS = dQ / T (ans.)
+B. dS = dQ × dT
+C. dS = dQ / dT
+D. dS = dQ - dT
+
+
+15. Formula of ΔS?
+Hints: ΔS = Change in entropy, m = mass, T = temperature
+A. ΔS = ms [𝘭𝘯 T₂ + 𝘭𝘯 T₁] (ans.)
+B. ΔS =  ms ΔT 
+C. ΔS = ms 𝘭𝘯 ΔT
+D. ΔS = ms / T₂+T₁
+Prove: 
+If the temperature is not constant or in case of a large change in angle i.e. change in entropy when the temperature of the object at the angle of relative mass m and s changes from T₁ to T₂,
+ΔS = ∫ᵀ²ₜ₁ dQ/T = ∫ᵀ²ₜ₁ msdT/T = ms ∫ᵀ²ₜ₁ dT/T
+ΔS = ms [𝘭𝘯 T]ᵀ²ₜ₁ = ms [𝘭𝘯 T₂/T₁]
+So, ΔS = ms [𝘭𝘯 T₂ - 𝘭𝘯 T₁] 
+
+
+16. Formula of ΔS?
+Hints: 
+A. ΔS = - dQ/T₁ + dQ/T₂ [T₁>T₂] (ans.)
+B. ΔS = dQ/T₁ + dQ/T₂ [ T₁>T₂]
+C. ΔS = - dQ/T₂ - dQ/T₁ [ T₂>T₁]
+D. ΔS = - dQ (T₂/T₁) [T₂ ≠ T₁]
+Prove:
+Suppose two objects are in contact with each other in a state of complete isolation from the environment.  The temperature of the two objects is T₁ and T₂ respectively).  If T₁ > T₂ then heat will be transferred from the heated object to the cool object.  Suppose, in a very short time, dQ amount of heat is transferred from the heated object to the cool object.  That is, the heated object lost dQ amount of heat and the cold object gained dQ amount of heat.  Thus - dq / T1 = decrease in entropy of heated object and dQ / T2 = increase in entropy of cold object.  Therefore the change in mate entropy in the system, 
+ΔS = - dQ/T₁ + dQ/T₂ [T₁>T₂]  

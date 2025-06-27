@@ -1,0 +1,20 @@
+User-agent: *
+
+# Allow Googlebot to crawl the homepage
+Allow: /$
+
+# Allow Googlebot to crawl the app's subdomain page
+Allow: /formulamaster$
+
+# Disallow specific pages or directories you don't want to be crawled
+Disallow: /private/
+Disallow: /admin/
+Disallow: /temp/
+Disallow: /error/
+Disallow: /test/
+Disallow: /index.html?         <!--might be wrong, delete if necessary-->
+Disallow /index
+# Add more Disallow directives for specific pages or directories as needed
+
+# Allow all other pages
+Allow: /
